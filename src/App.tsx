@@ -277,7 +277,7 @@ const PUBLICATIONS = [
       "PR-IQA: Partial-Reference Image Quality Assessment for Diffusion-Based Novel View Synthesis",
     authors: "Inseong Choi, Siwoo Lee, Seung-Hun Nam, Soohwan Song",
     year: "2026",
-    projectUrl: "",
+    projectUrl: "https://kakaomacao.github.io/pr-iqa-project-page/",
     githubUrl: "https://github.com/Kakaomacao/PR-IQA",
     arxivUrl: "",
   },
